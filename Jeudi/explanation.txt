@@ -1,0 +1,1 @@
+the difference between the _c and the _b : the program b is more clear and the user will have just to enter the information the c program are completly not for a custumor or a user because when you execute it you don't have any information about what are you supposed to do with it 
