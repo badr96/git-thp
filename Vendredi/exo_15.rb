@@ -5,7 +5,7 @@ age = actual_year - birth_year
 
 
 puts"\nyear that past: "
-while actual_year != birth_year 
+while actual_year != birth_year - 1 
 	puts"#{actual_year}: #{age} "
 	
 	actual_year = actual_year - 1
